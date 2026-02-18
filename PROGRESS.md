@@ -3,10 +3,10 @@
 状態: `[ ]` 未着手 / `[T]` 翻訳済み / `[V]` 検証済み(PASS)
 
 ## 01 Overview (4 pages) ✓
-- [T] 00-overview.md
-- [T] 01-key-concepts.md
-- [T] 02-quick-start.md
-- [T] 03-architecture-diagrams.md
+- [V] 00-overview.md
+- [V] 01-key-concepts.md
+- [V] 02-quick-start.md
+- [V] 03-architecture-diagrams.md
 
 ## 02 Installation (5 pages)
 - [ ] 00-overview.md
